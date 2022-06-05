@@ -18,6 +18,14 @@ These boards differ from 'traditional' prototyping boards in a couple of ways:
 Electrically, the rows of 5 pads are connected in the same way as a 'traditional' breadboard. I am planning to make pad-per-hole versions of these boards 
 available in the near future.
 
+## Buy via OSHPark
+
+These boards can be ordered via OSHPark using the links below - note that I don't receive any commission for purchases made this way.
+
+- Small: https://oshpark.com/shared_projects/MuwHRMNy
+- Medium: https://oshpark.com/shared_projects/Uu3mWM4d
+- Large: https://oshpark.com/shared_projects/nStSqsz1
+
 ------------
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
